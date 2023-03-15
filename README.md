@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conan</h1>
 <h3 align="center">A passionate, enthusiastic full stack developer from England</h3>
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails and React along with various other JS pacakages**
+- 🌱 I’m currently learning **Ruby, Ruby on Rails and React along with various other JS frameworks**
 
 - 💬 Ask me about **Le Wagon**
 
